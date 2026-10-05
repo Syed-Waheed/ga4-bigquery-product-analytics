@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=E-commerce%20Product%20Analytics&fontSize=55&animation=fadeIn&fontAlignY=38&desc=GA4%20%E2%80%A2%20BigQuery%20%E2%80%A2%20Tableau%20%E2%80%A2%20Experimentation%20%E2%80%A2%20Purchase%20Propensity&descAlignY=58&descAlign=50" alt="E-commerce Product Analytics Header" />
 
