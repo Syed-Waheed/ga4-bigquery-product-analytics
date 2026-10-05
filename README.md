@@ -26,10 +26,10 @@
 
 ## 📊 Dashboard
 
+
 <p align="center">
   <img src="Dashboard.png" alt="Google Merchandise Store Product Analytics Dashboard" width="100%">
 </p>
-
 > **The dashboard summarizes the project's core product analytics findings across funnel performance, acquisition, lifecycle behavior, and retention.**
 
 ---
