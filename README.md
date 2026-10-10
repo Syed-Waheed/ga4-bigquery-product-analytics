@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/XGBoost-Purchase%20Propensity-EC0000?style=for-the-badge" alt="XGBoost" />
 </p>
-[![Architecture diagram of syed-waheed/ga4-bigquery-product-analytics](https://gitdiagram.com/syed-waheed/ga4-bigquery-product-analytics/diagram.png)](https://gitdiagram.com/syed-waheed/ga4-bigquery-product-analytics?utm_source=readme&utm_medium=picture)
+
 <h3>From Funnel Leakage to Product Experimentation</h3>
 
 <p>
